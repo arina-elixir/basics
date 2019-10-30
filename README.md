@@ -7,4 +7,4 @@ To run the codes in those files
 
 2) Type in iex "filename.ex" to compile it. It opens up the Interactive Elixir Shell iex
 
-3)iex> Type ModuleName.FunctionName to execute your code
+3) iex> Type ModuleName.FunctionName to execute your code
