@@ -1,10 +1,25 @@
-# basics
+# Basics
+
 Basic Elixir use case
 
 To run the codes in those files
 
-1) On your command prompt navigate to the file's location
+1. On your command prompt navigate to the file's location
 
-2) Type in iex "filename.ex" to compile it. It opens up the Interactive Elixir Shell iex
+2. Type in iex "filename.ex" to compile it. It opens up the Interactive Elixir Shell iex
 
-3) iex> Type ModuleName.FunctionName to execute your code
+3. iex> Type ModuleName.FunctionName to execute your code
+
+## Example
+
+```bash
+cd basics
+```
+
+```bash
+iex "app1.ex"
+```
+
+```bash
+App1.greet_everybody
+```
