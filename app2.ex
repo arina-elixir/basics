@@ -8,7 +8,7 @@ defmodule App2 do
     rescue
       e in ArgumentError ->
         IO.puts("An error occurred. " <> e.message)
-        IO.puts("\nPlease try again with a number ")
+        IO.puts("\nPlease try again with an whole number.\n")
         greet_everybody()
     end
   end
